@@ -17,6 +17,6 @@ Eu sou Marcel Yassumoto, desenvolvedor Web, e cursando TADS 4/5!
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ![Snake animation](https://github.com/marcelfy/marcelfy/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
