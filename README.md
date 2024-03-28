@@ -1,4 +1,4 @@
-Eu sou Marcel Yassumoto, desenvolvedor Web, e formado em TADS!
+Eu sou Marcel, desenvolvedor Web, e formado em TADS!
 <!-- <div align="center">
   <a href="https://github.com/marcelfy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelfy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
