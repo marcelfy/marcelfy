@@ -6,7 +6,7 @@ Eu sou Marcel, desenvolvedor Web Full Stack, e formado em TADS!
 </div> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelfy&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfy&layout=compact)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfy&layout=compact)](https://github.com/marcelfy)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
