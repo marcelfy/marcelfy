@@ -1,5 +1,5 @@
 ## 👋 Sobre mim
-Eu sou **Marcel**, desenvolvedor **Web Full Stack**, formado em **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**.
+Sou Marcel, desenvolvedor Web Full Stack, formado em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS). Atuo no desenvolvimento de aplicações web modernas, trabalhando tanto no front-end quanto no back-end, com foco em React, .NET e SQL Server. Tenho interesse constante em evoluir tecnicamente, aplicando boas práticas, código limpo e soluções eficientes para problemas reais.
 
 ---
 
