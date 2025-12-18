@@ -2,11 +2,9 @@
 Sou Marcel, desenvolvedor Web Full Stack, formado em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS). Atuo no desenvolvimento de aplicações web modernas, trabalhando tanto no front-end quanto no back-end, com foco em React, .NET e SQL Server. Tenho interesse constante em evoluir tecnicamente, aplicando boas práticas, código limpo e soluções eficientes para problemas reais.
 
 ---
-
-## 📊
+##
 ![marcelfy's Stats](https://github-readme-stats.vercel.app/api?username=marcelfy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![marcelfy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfy&theme=tokyonight&layout=compact&hide_border=true)
-
 ---
 
 ## 🛠️ Tecnologias
