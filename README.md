@@ -8,7 +8,6 @@ Sou Marcel, desenvolvedor Web Full Stack, formado em Tecnologia em Análise e De
 
 ![marcelfy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfy&theme=tokyonight&layout=compact&hide_border=true)
 
-![marcelfy's Streak](https://streak-stats.demolab.com?user=marcelfy) 
 
 ---
 
