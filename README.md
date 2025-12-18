@@ -1,18 +1,31 @@
-Eu sou Marcel, desenvolvedor Web Full Stack, e formado em TADS!
+## 👋 Sobre mim
+Eu sou **Marcel**, desenvolvedor **Web Full Stack**, formado em **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**.
 
+---
+
+## 📊 GitHub Stats
 ![marcelfy's Stats](https://github-readme-stats.vercel.app/api?username=marcelfy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![marcelfy's Streak](https://streak-stats.demolab.com?user=marcelfy)
-![marcelfy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+![marcelfy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfy&theme=tokyonight&layout=compact&hide_border=true)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  
+![marcelfy's Streak](https://streak-stats.demolab.com?user=marcelfy) 
+
+---
+
+## 🛠️ Tecnologias
+<p>
+  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img alt="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt=".NET" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+
+  <img alt="SQL Server" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+
+  <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="GitHub" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</p>
 
