@@ -4,7 +4,6 @@ Eu sou Marcel, desenvolvedor Web Full Stack, e formado em TADS!
 ![marcelfy's Streak](https://streak-stats.demolab.com?user=marcelfy)
 ![marcelfy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcelfy&theme=tokyo-night)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=marcelfy)
 
 
 <div style="display: inline_block"><br>
