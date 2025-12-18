@@ -1,9 +1,4 @@
 Eu sou Marcel, desenvolvedor Web Full Stack, e formado em TADS!
-<!-- <div align="center">
-  <a href="https://github.com/marcelfy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelfy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfy&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
 
 ![marcelfy's Stats](https://github-readme-stats.vercel.app/api?username=marcelfy&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![marcelfy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcelfy&theme=radical&hide_border=true)
@@ -19,5 +14,4 @@ Eu sou Marcel, desenvolvedor Web Full Stack, e formado em TADS!
 </div>
   
   
-</div>
 
