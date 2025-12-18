@@ -5,8 +5,8 @@ Eu sou Marcel, desenvolvedor Web Full Stack, e formado em TADS!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfy&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelfy&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfy&layout=compact)](https://github.com/marcelfy)
+![marcelfy's Stats](https://github-readme-stats.vercel.app/api?username=marcelfy&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![marcelfy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfy&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
